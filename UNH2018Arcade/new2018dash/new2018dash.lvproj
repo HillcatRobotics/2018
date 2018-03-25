@@ -22,6 +22,7 @@
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Control 3.ctl" Type="VI" URL="../Control 3.ctl"/>
 		<Item Name="Control 2.ctl" Type="VI" URL="../Control 2.ctl"/>
+		<Item Name="Control 3.ctl" Type="VI" URL="../../../../2018Dash/Control 3.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Property Name="NI.SortType" Type="Int">0</Property>
