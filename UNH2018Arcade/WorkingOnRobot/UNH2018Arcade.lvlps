@@ -1,5 +1,9 @@
 [ProjectWindow_Data]
+<<<<<<< HEAD
 ProjectExplorer.ClassicPosition[String] = "33,1,767,1363"
+=======
+ProjectExplorer.ClassicPosition[String] = "78,-13,812,1349"
+>>>>>>> 90698782625d4ed070f30f6774f1ee024da86f66
 
 [AB_Cache_{8C1C8770-D686-4931-835E-3A364C203F20}]
 Cache_Path[Path] Line0001 = "/C/Users/Hillcat Robotics/AppData/Local/Temp/AB_Ca"
